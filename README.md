@@ -11,7 +11,6 @@ This book introduces Google cloud infrastructure as a service in systematic, and
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-[Find the code for the 2023 edition of the book here](https://github.com/iconx2020a/medicoms)
 ## Book outline
 
 
