@@ -1,5 +1,4 @@
 
-# Google Cloud QuickStart 
 ### Learn infrastructure as a service with Google cloud console, gcloud and terraform
 
 <a href="https://www.amazon.com/dp/B09J2X3SFX"><img src="https://user-images.githubusercontent.com/64724621/212282940-2f1cd521-d586-4f65-b30f-1ad5092839f6.png" alt="" height="256px" align="right"></a>
