@@ -11,6 +11,8 @@ The **2023 edition** of this book introduces Google cloud infrastructure as a se
 
 Get your [copy](https://www.amazon.com/dp/B09J2X3SFX) today if you are ready to make a quickstart with Google Cloud!
 
+// [You can connect to our beautiful page here] (http://lab.gcpbook.net.s3-website-us-east-1.amazonaws.com)
+
 
 
 ## Book outline
